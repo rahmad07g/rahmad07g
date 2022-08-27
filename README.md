@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Python , Hadoop, Golang, Docker**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/Notion-Ragun](https://bit.ly/Notion-Ragun)
+- 👨‍💻 All of my projects are available at this Repository or you can check my [Notion](https://bit.ly/Notion-Ragun)
 
 - 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **rahmad07g@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/Ragun_Resume](https://bit.ly/Ragun_Resume)
+- 📄 Know about my experiences [Resume](https://bit.ly/Ragun_Resume)
 
 - Here is my Medium **[Medium](https://medium.com/@rahmad07g)**
 
