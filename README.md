@@ -19,6 +19,8 @@
 
 - 📄 Know about my experiences [https://bit.ly/Ragun_Resume](https://bit.ly/Ragun_Resume)
 
+- Here is my Medium **[Medium](https://medium.com/@rahmad07g)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ragunnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragunnn" height="30" width="40" /></a>
