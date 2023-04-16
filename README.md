@@ -1,19 +1,19 @@
 [![MasterHead](https://img.freepik.com/free-photo/businesspeople-meeting-plan-analysis-graph-company-finance-strat_74952-1347.jpg?w=1800&t=st=1660934515~exp=1660935115~hmac=cf04cd2efa5f124546bb96f56d8b687333c0f75bdff7ae9082b52d9d57b88a3d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rahmad</h1>
-<h3 align="center">Data Scientist | Data Analyst from Indonesia</h3>
+<h3 align="center">Data Engineeer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/f75db1b2b21e31c269b74c259564d19f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmad07g&label=Profile%20views&color=0e75b6&style=flat" alt="rahmad07g" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m looking for a job opportunity to start my career in **Data Science**
+- 🔭 I’m looking for a job opportunity to start my career in **Data Engineer**
 
 - 🌱 I’m currently learning **Python , Hadoop, Golang, Docker**
 
 - 👨‍💻 All of my projects are available at this Repository or you can check my [Notion](https://bit.ly/Notion-Ragun)
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Engineer**
 
 - 📫 How to reach me **rahmad07g@gmail.com**
 
